@@ -32,7 +32,7 @@ The updates are focused on clarity and uniformity as well as semantic structure 
 
 ---
 
-Repo Link:
+## Repo Link:
 
 [https://github.com/gtech29/comp484-hw4](https://github.com/gtech29/comp484-hw4)
 
@@ -60,8 +60,6 @@ Overall, the site content is now better organized, easier to read, and more alig
 
 **Course:** COMP 484 – Web Engineering
 
-
 **Assignment:** Creating Lists
-
 
 **Student:** Juan Rodriguez
