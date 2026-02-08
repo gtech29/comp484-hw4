@@ -6,6 +6,14 @@ The updates are focused on clarity and uniformity as well as semantic structure 
 
 ---
 
+## Repo Link:
+
+[https://github.com/gtech29/comp484-hw4](https://github.com/gtech29/comp484-hw4)
+
+---
+
+
+
 ## What Was Completed
 
 ### Site Navigation (All Pages)
@@ -31,10 +39,6 @@ The updates are focused on clarity and uniformity as well as semantic structure 
 - Reorganized the doctypes into a list so the relationship between each doctype and its example is clearer.
 
 ---
-
-## Repo Link:
-
-[https://github.com/gtech29/comp484-hw4](https://github.com/gtech29/comp484-hw4)
 
 ### HTML Terms (reference.html)
 
