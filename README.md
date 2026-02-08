@@ -32,6 +32,10 @@ The updates are focused on clarity and uniformity as well as semantic structure 
 
 ---
 
+Repo Link:
+
+[https://github.com/gtech29/comp484-hw4](https://github.com/gtech29/comp484-hw4)
+
 ### HTML Terms (reference.html)
 
 - Reviewed the section containing HTML terms and their descriptions.
